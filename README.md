@@ -1,1 +1,3 @@
 # UART-and-Traffic-Light-Controller-System
+
+This project involves the design and implementation of a Universal Asynchronous Receiver-Transmitter (UART) system in VHDL. The system includes a transmitter, receiver, baud rate generator, and UART registers to enable serial communication between devices. It integrates with a traffic light controller to send real-time debug messages (e.g., "Mg Sr" for green light) to a computer terminal. The design was simulated using Quartus II and implemented on the DE2 Altera FPGA board, featuring four FSMs for controlling UART communication and traffic light states. This project enhanced our understanding of digital system design and real-world UART applications.
